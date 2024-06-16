@@ -1,0 +1,14 @@
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\bin\Debug\net8.0\DesafioPraticoFundamentosCSharp.exe
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\bin\Debug\net8.0\DesafioPraticoFundamentosCSharp.deps.json
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\bin\Debug\net8.0\DesafioPraticoFundamentosCSharp.runtimeconfig.json
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\bin\Debug\net8.0\DesafioPraticoFundamentosCSharp.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\bin\Debug\net8.0\DesafioPraticoFundamentosCSharp.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.AssemblyInfoInputs.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.AssemblyInfo.cs
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\refint\DesafioPraticoFundamentosCSharp.dll
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.pdb
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\DesafioPraticoFundamentosCSharp.genruntimeconfig.cache
+C:\Users\Thiago\Documents\projects\rocketseat-c#\DesafioPraticoFundamentosCSharp\DesafioPraticoFundamentosCSharp\obj\Debug\net8.0\ref\DesafioPraticoFundamentosCSharp.dll
